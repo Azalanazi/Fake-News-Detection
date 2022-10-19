@@ -15,7 +15,8 @@ For the part one, because the first data is labeled, we will analyze and prepare
 
 # About Dataset
 This data set consists of 40000 fake and real news. Our goal is to train our model to accurately predict whether a particular piece of news is real or fake. Fake and real news data are given in two separate data sets, with each data set consisting of approximately 20000 articles.
-The data is here "https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset" The altered and pre-processed data is provided in a CSV file in the data file. 
+The data is here "https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset" 
+The altered and pre-processed data is provided in a CSV file in the data file. 
 
 2- Web Scraping:
 A. An article pulled from CNN Politics. The data can be found here: https://edition.cnn.com/2022/09/16/politics/donald-trump-hugh-hewitt-interview-indicted/index.html 
